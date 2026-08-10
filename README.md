@@ -148,14 +148,10 @@ Component composition
 
 Installation
 
-The uploaded project files contain the React components, but they do not include a package.json or project configuration file. Therefore, the exact package-manager commands and scripts cannot be verified from the supplied files.
-
-If this project is part of a standard React/Vite application, the usual workflow is:
+In order to run the game on localhost:
 
 npm install
 npm run dev
-
-Use the commands defined in your project's package.json if they differ.
 
 Usage
 
